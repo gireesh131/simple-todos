@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.todo-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.passage {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #000000;
+}
+.button {
+  font-size: 18px;
+  background-color: #ffffff;
+  color: #ff0b37;
+  border-radius: 8px;
+  border-width: 2px;
+}
